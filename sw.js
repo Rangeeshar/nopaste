@@ -30,6 +30,7 @@ const PRECACHE_URLS = [
         'npm/codemirror@5.58.1/lib/codemirror.min.css,' +
         'npm/codemirror@5.58.1/addon/scroll/simplescrollbars.css,' +
         'npm/codemirror@5.58.1/theme/dracula.min.css,' +
+        'npm/codemirror@5.58.1/theme/3024-night.min.css,' +
         'npm/microtip@0.2.2/microtip.min.css',
     'https://cdn.jsdelivr.net/gh/JetBrains/JetBrainsMono@2.210/fonts/webfonts/JetBrainsMono-Regular.woff2',
     'https://cdn.jsdelivr.net/gh/JetBrains/JetBrainsMono@2.210/fonts/ttf/JetBrainsMonoNL-Regular.ttf',
